@@ -1,0 +1,16 @@
+{
+  "itemGroup.reallifeearth": "Gerçek Hayat",
+  "item.reallifeearth.phone": "Telefon",
+  "item.reallifeearth.bank_card": "Banka Kartı",
+  "item.reallifeearth.wallet": "Cüzdan",
+  "item.reallifeearth.car_key": "Araba Anahtarı",
+  "block.reallifeearth.asphalt": "Asfalt",
+  "block.reallifeearth.asphalt_line": "Asfalt Çizgisi",
+  "block.reallifeearth.sidewalk": "Kaldırım",
+  "block.reallifeearth.shop_shelf": "Market Rafı",
+  "block.reallifeearth.office_desk": "Ofis Masası",
+  "entity.reallifeearth.real_npc": "Vatandaş",
+  "gui.reallifeearth.create_world": "Gerçek Hayat - Doğma Konumu Seç",
+  "gui.reallifeearth.phone": "Telefon",
+  "command.reallifeearth.spawninfo": "Doğma: %s (%.4f, %.4f)"
+}

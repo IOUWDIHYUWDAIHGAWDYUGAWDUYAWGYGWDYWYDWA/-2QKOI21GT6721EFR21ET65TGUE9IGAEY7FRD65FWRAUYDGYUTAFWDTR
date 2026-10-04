@@ -1,0 +1,16 @@
+{
+  "itemGroup.reallifeearth": "Real Life Earth",
+  "item.reallifeearth.phone": "Phone",
+  "item.reallifeearth.bank_card": "Bank Card",
+  "item.reallifeearth.wallet": "Wallet",
+  "item.reallifeearth.car_key": "Car Key",
+  "block.reallifeearth.asphalt": "Asphalt",
+  "block.reallifeearth.asphalt_line": "Asphalt Line",
+  "block.reallifeearth.sidewalk": "Sidewalk",
+  "block.reallifeearth.shop_shelf": "Shop Shelf",
+  "block.reallifeearth.office_desk": "Office Desk",
+  "entity.reallifeearth.real_npc": "Citizen",
+  "gui.reallifeearth.create_world": "Real Life Earth - Choose Spawn",
+  "gui.reallifeearth.phone": "Phone",
+  "command.reallifeearth.spawninfo": "Spawn: %s (%.4f, %.4f)"
+}
